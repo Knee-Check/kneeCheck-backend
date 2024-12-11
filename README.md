@@ -18,7 +18,7 @@ Hello, and thank you for visiting this repository! 🎯 This repository is part 
 git clone https://github.com/Knee-Check/kneeCheck-backend.git
 cd kneeCheck-backend
 ```
-2. Install Dependencies:
+2. Install Dependencies:<br>
 Make sure you have [Node.js](https://nodejs.org/en/download/package-manager) installed. Then, run:
 ```
 npm install
